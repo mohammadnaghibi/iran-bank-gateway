@@ -1,4 +1,4 @@
- 
+This package is made by [larabook.ir](http://larabook.ir/اتصال-درگاه-بانک-لاراول/) and I have added to it several functions, including the refund request for Mellat Bank. 
 
 by this  package we are able to connect to all Iranian bank with one unique API.
 
