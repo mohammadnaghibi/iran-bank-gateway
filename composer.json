@@ -1,5 +1,5 @@
 {
-  "name": "mohammadnaghibi/gateway",
+  "name": "mohammadnaghibi/iran-bank-gateway",
   "homepage": "https://github.com/mohammadnaghibi/iran-bank-gateway.git",
   "description": "A Laravel package for connecting to all Iraninan payment  gateways - this package modified by mohammad naghibi and fork form https://github.com/larabook/gateway",
   "keywords": [
