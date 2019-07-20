@@ -2,9 +2,7 @@
 
 by this  package we are able to connect to all Iranian bank with one unique API.
 
-( This Package is now compatible with both **4.\* and 5.\* versions of Laravel** )
-
-Please inform us once you've encountered [bug](https://github.com/larabook/gateway/issues) or [issue](https://github.com/larabook/gateway/issues)  .
+( This Package is now compatible with both **4.\* and 5.\* versions of Laravel** ).
 
 Available Banks:
  1. MELLAT
