@@ -59,7 +59,7 @@
       "mohammadnaghibi\\Gateway\\Tests\\": "tests/"
     }
   },
-  "minimum-stability": "master",
+  "minimum-stability": "dev",
   "extra": {
     "laravel": {
       "providers": [
