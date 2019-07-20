@@ -1,0 +1,73 @@
+{
+  "name": "mohammadnaghibi/gateway",
+  "homepage": "https://github.com/mohammadnaghibi/iran-bank-gateway.git",
+  "description": "A Laravel package for connecting to all Iraninan payment  gateways - this package modified by mohammad naghibi and fork form https://github.com/larabook/gateway",
+  "keywords": [
+    "laravel",
+    "iran",
+    "payment",
+    "gateway",
+    "port",
+    "bank",
+    "pay",
+    "mellat",
+    "saman",
+    "pasargad",
+    "parsian",
+    "sadad",
+    "meli",
+    "payline",
+    "jahanpay",
+    "zarinpal",
+    "iranian-banks",
+    "persian-banks",
+    "pardakht",
+    "dargah",
+    "shaparak",
+    "poolport",
+    "ipay",
+    "asan-pardakht",
+    "pay-ir",
+    "paypal"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Hamed Pakdaman",
+      "email": "pakdaman.it@gmail.com"
+    },
+    {
+      "name": "MohammadReza Honarkhah",
+      "email": "m.honar@gmail.com"
+    },
+    {
+      "name": "Amir Khorsandi",
+      "email": "Khorsandi@me.com"
+    },
+	{
+		"name": "mohammad naghibi",
+		"email": "mohammadnaghibi94@gmail.com"
+	}
+  ],
+  "require": {
+    "nesbot/carbon": "*",
+    "paypal/rest-api-sdk-php": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "mohammadnaghibi\\Gateway\\": "src/",
+      "mohammadnaghibi\\Gateway\\Tests\\": "tests/"
+    }
+  },
+  "minimum-stability": "dev",
+  "extra": {
+    "laravel": {
+      "providers": [
+        "mohammadnaghibi\\Gateway\\GatewayServiceProvider"
+      ],
+      "aliases": {
+        "Gateway": "mohammadnaghibi\\Gateway\\Gateway"
+      }
+    }
+  }
+}
