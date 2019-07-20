@@ -1,8 +1,4 @@
-
-
-
-
-package's home : [larabook.ir](http://larabook.ir/اتصال-درگاه-بانک-لاراول/) 
+ 
 
 by this  package we are able to connect to all Iranian bank with one unique API.
 
