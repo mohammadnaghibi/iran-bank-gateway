@@ -59,7 +59,7 @@
       "mohammadnaghibi\\Gateway\\Tests\\": "tests/"
     }
   },
-  "minimum-stability": "dev",
+  "minimum-stability": "3.3.6",
   "extra": {
     "laravel": {
       "providers": [
